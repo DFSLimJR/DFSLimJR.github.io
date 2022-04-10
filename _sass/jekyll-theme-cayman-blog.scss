@@ -453,20 +453,7 @@ a {
       transition: color .5s, transform .2s ease-out
     }
 
-    @include large {
-      width: 28px;
-      height: 28px;
-    }
-
-    @include medium {
-      width: 32px;
-      height: 32px;
-    }
-
-    @include small {
-      width: 36px;
-      height: 36px;
-    }
+   
 
   } // social-icons
 
