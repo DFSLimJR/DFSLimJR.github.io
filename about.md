@@ -6,7 +6,9 @@ permalink: /about.html
 ref: about
 order: 0
 ---
-This page is meant for educational purposes, and is fully made by following the steps as provided using "caymen blog theme".
+This page is meant for educational purposes. 
+
+This page utlises the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
 
 Please do not heistate to google if any error occurs as the guide may not be fully comprehensive.
 
