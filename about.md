@@ -13,4 +13,4 @@ You can also find references using our own github source code
 
 Please do not heistate to google if any error occurs as the guide may not be fully comprehensive.
 
-Made by: Lim Jing Run, Tan Hong Qian, Liu Linxi
+Made by: Lim Jing Run, Tang Hong Qian, Liu Linxi
