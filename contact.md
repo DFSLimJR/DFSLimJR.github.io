@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-tagline: Create a contact form and you are good to go
+tagline: Any questions?
 ref: contact
 order: 1
 ---
